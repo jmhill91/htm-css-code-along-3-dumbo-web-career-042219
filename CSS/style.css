@@ -47,3 +47,11 @@ figcaption {
 #logo h2{
   font-family: "Elsie Swash Caps", cursive;
 }
+
+/* Psuedo Class Selector */
+
+#details a:link
+
+
+
+

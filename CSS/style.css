@@ -39,4 +39,8 @@ figcaption {
   background: aqua;
 }
 
+/*decendent selector */
+#logo h1{
+  font-family: "Clicker S"
+}
 

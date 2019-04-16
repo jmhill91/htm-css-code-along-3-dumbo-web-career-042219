@@ -54,7 +54,9 @@ figcaption {
   color: black;
   text-decoration: none;
 }
-#details a
+#details a:hover{
+  
+}
 
 
 
